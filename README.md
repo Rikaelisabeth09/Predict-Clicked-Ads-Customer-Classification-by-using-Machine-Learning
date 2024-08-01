@@ -129,7 +129,8 @@ Province: The most common province is Daerah Khusus Ibukota Jakarta, with 253 oc
     *   Bandung stands out as a city with a higher ad click-through rate compared to other cities.
     *   Daerah Khusus Ibukota Jakarta he click-through rate for ads in Jakarta is comparable to other provinces, indicating average performance in ad engagement.
 
-![Bivariate Anlysis]](https://github.com/Rikaelisabeth09/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning/blob/main/bi.png)
+![Bivariate Analysis](https://github.com/Rikaelisabeth09/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning/raw/main/bi.png)
+
 
 ### Insight  : 
 Key Inferences from Bivariate Analysis
